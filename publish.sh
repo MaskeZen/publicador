@@ -1,7 +1,8 @@
 #!/usr/bin/env bash
 
 # Script para publicar aplicaciones a un equipo remoto mediante rsync.
-# version 1.0.0-beta 
+# version: 1.0.0-beta 
+# repo: https://github.com/MaskeZen/publicador
 
 # PRE CONFIGURACIÓN:
 # Crear key
